@@ -6,3 +6,11 @@ color:white;
 
 
 } /* end of body */
+
+
+H1 /* sets the properties for every h1 heading */
+{
+font-family:Veranda;
+color:Black;
+font-size:38;
+} 
