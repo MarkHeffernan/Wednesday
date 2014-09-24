@@ -1,8 +1,8 @@
 Body
 {
-Background-color:TEAL;
+background-image:url('pg.png');
 font-family:Veranda;
-color:white;
+color:grey;
 
 
 } /* end of body */
@@ -11,6 +11,6 @@ color:white;
 H1 /* sets the properties for every h1 heading */
 {
 font-family:Veranda;
-color:Black;
-font-size:38;
+color:grey;
+font-size:38pt;
 } 
